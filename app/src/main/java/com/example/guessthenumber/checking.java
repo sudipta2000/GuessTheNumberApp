@@ -14,7 +14,7 @@ import androidx.appcompat.app.AppCompatActivity;
 public class checking extends AppCompatActivity {
     int count = 5; // hints count
     int guess_count = 10; //guess count
-    int hint_counter = 0;
+    int hint_counter = 0; //Hints counter
     int result;
     boolean flag = true;
     boolean flag_success = false;
